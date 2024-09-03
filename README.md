@@ -11,7 +11,7 @@ A simple yet powerful to-do list application built with React.js. This project a
 
 ## Demo
 
-![Screenshot of the application](screenshot.png)
+![Screenshot of the Application](screenshot.png)
 
 ## Live Preview
 
