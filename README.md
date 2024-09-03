@@ -13,6 +13,10 @@ A simple yet powerful to-do list application built with React.js. This project a
 
 ![Screenshot of the application](screenshot.png)
 
+## Live Preview
+
+Check out the live preview of the application [here](https://prem021.github.io/React-ToDo-Manager).
+
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
